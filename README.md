@@ -19,7 +19,7 @@
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=engsahaly&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=hazem&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engsahaly&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
@@ -31,6 +31,6 @@
 
 ------
 
-Credit: [Mahmoud Anwar](https://github.com/engsahaly)
+Credit: [Hazem Mohamed](https://github.com/HazemElknawy9)
 
 Last edited on: 12/07/2022
